@@ -1,0 +1,13 @@
+/* Home */
+#home{
+    background-image:url(Donate.jpg);
+    min-height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /* Form */
+  .form{
+    background: rgb(0, 101, 219);
+    background: linear-gradient(90deg, rgb(0, 101, 219)50%, rgb(127, 163, 240)100%);
+  }
